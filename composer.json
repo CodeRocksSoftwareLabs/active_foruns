@@ -1,0 +1,18 @@
+{
+    "name": "frossard00/moodle-block_active_foruns",
+    "description": "A block template for Moodle based on http://docs.moodle.org/dev/Blocks",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Victor Frossard",
+            "email": "victor@coderocks.com.br"
+        }
+    ],
+    "type": "moodle-block",
+    "require": {
+      "composer/installers": "~1.0"
+    },
+    "extra": {
+      "installer-name": "active_foruns"
+    }
+}
